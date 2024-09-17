@@ -1,0 +1,14 @@
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\bin\Debug\net8.0\prac1.exe
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\bin\Debug\net8.0\prac1.deps.json
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\bin\Debug\net8.0\prac1.runtimeconfig.json
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\bin\Debug\net8.0\prac1.dll
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\bin\Debug\net8.0\prac1.pdb
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\obj\Debug\net8.0\prac1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\obj\Debug\net8.0\prac1.AssemblyInfoInputs.cache
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\obj\Debug\net8.0\prac1.AssemblyInfo.cs
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\obj\Debug\net8.0\prac1.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\obj\Debug\net8.0\prac1.dll
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\obj\Debug\net8.0\refint\prac1.dll
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\obj\Debug\net8.0\prac1.pdb
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\obj\Debug\net8.0\prac1.genruntimeconfig.cache
+C:\Users\Joshua\Dev\c#-pracs\prac1\prac1\obj\Debug\net8.0\ref\prac1.dll
