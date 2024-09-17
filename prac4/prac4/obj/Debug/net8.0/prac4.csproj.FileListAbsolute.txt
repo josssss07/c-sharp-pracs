@@ -1,0 +1,15 @@
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\bin\Debug\net8.0\prac4.exe
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\bin\Debug\net8.0\prac4.deps.json
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\bin\Debug\net8.0\prac4.runtimeconfig.json
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\bin\Debug\net8.0\prac4.dll
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\bin\Debug\net8.0\prac4.pdb
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\obj\Debug\net8.0\prac4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\obj\Debug\net8.0\prac4.AssemblyInfoInputs.cache
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\obj\Debug\net8.0\prac4.AssemblyInfo.cs
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\obj\Debug\net8.0\prac4.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\obj\Debug\net8.0\prac4.sourcelink.json
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\obj\Debug\net8.0\prac4.dll
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\obj\Debug\net8.0\refint\prac4.dll
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\obj\Debug\net8.0\prac4.pdb
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\obj\Debug\net8.0\prac4.genruntimeconfig.cache
+C:\Users\Joshua\Dev\c#-pracs\prac4\prac4\obj\Debug\net8.0\ref\prac4.dll
