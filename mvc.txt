@@ -1,0 +1,15 @@
+1: make mvc app
+2: controller- connects the models to the data, model- it is what represents the data, view- view lets you view the data
+go to model and then add a model(.cs file), add the fix thingy 
+3:hover on controller and add new scaffold item: MVC controller with view
+4: let vs do the thing
+5: do the innit thiing : add-migration InitDatabase update-database 
+6: runit 
+
+
+now for the controllers: 
+
+add controler
+add empty controller 
+name it whatever you wantController
+make the function a string, add the return as any string that you want
