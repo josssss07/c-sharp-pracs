@@ -1,0 +1,13 @@
+Rzor pages steps: 
+
+1: make a razor page app
+2: make folder called Modles and add ur .cs class that will have ur data model 
+3: go into pages and make a folder of whatever you want, add an s (optional)
+4: go to nuget package manger and install entity framwork core and install for sql server
+5: once installed right click and add rzor page to the folder that you just made
+6: click the file that u want as the framework and add a new context for the thingy
+7: let it cook 
+8: nuget package manager console and type : 
+add-migration InitData
+update-database
+9: opne the project in express (https also works?)
